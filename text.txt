@@ -1,1 +1,1 @@
-Primera línea&#10;Segunda línea
+Primera línea\nSegunda línea
